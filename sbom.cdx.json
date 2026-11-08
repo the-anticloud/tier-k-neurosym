@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:916d0fdf-8112-56b8-a930-3f9e185e217e",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T20:31:25Z",
+    "component": {
+      "type": "application",
+      "name": "K_NEUROSYM",
+      "version": "af3b341a5aa7",
+      "bom-ref": "pkg:generic/anticloud/K_NEUROSYM@af3b341a5aa7",
+      "purl": "pkg:generic/anticloud/K_NEUROSYM@af3b341a5aa7",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "af3b341a5aa77ab38aeb380794e5b8e6ddc5644d"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/KQYaili/neurosymbolic-reasoning.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
